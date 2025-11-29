@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: Excelsiorhaus Mietergemeinschaft
+description: Excelsiorhaus Tenant Association
+
+collections:
+  past_meetings:
+    output: true
+    sort_by: date
