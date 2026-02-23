@@ -7,9 +7,9 @@ For example, we pay around 100,000 EUR for light alone. For a building of our si
 
 ## What can we do?
 
-As tenants we have the right to ask for all the receipts in connection with our additional bill. We can then view these documents and check them for 
-any errors. **If we do find errors** we can demand to get our money back for the erroneous positions. 
-Right now we do not know if there are any errors, we only see positions which seem to be high, which is why our first step needs to be to create transparency and ask for the receipts.
+As tenants **we have the right** to ask for all the receipts in connection with our additional bill. We can then view these documents and check them for 
+any errors. **If we do find errors** we can demand to **get our money back** for the erroneous positions. 
+Right now we do not know if there are any errors, we only see positions which seem to be high, which is why our first step needs to be to create transparency and **ask for the receipts**.
 
 
 ## The Email
@@ -19,7 +19,7 @@ You can add the required information in red and send it to the landlord at [Elke
 
 If you like to send it, please first add the details in red:
 
-- In <span style="color: red;">your personal email or kontakt@mg-berlin.org</span>: Write your own email address. As an alternative, if you do not wish to use your own address use kontakt@mg-berlin.org. This is the email to which our landlord will send scans of bills and documents. If you receive any bills please share them in telegram [Tenant Association (Mietergemeinschaft)](https://t.me/+PuYY31zYhF1jNjdi) or at this email: [kontakt@mg-berlin.org](mailto:kontakt@mg-berlin.org).
+- In <span style="color: red;">your personal email or kontakt@mg-berlin.org</span>: Write your own email address. As an alternative, if you do not wish to use your own address use [kontakt@mg-berlin.org](kontakt@mg-berlin.org). This is the email to which our landlord will send scans of bills and documents. If you receive any bills please share them in telegram [Tenant Association (Mietergemeinschaft)](https://t.me/+PuYY31zYhF1jNjdi) or at this email: [kontakt@mg-berlin.org](mailto:kontakt@mg-berlin.org).
 
 - In <span style="color: red;">day/month/year</span>: Write 3 dates where you could be available to view the documents yourself. We will do our best to have representatives from the union go on your behalf No promises though. We hope that the landlord will just give us the bills in electronic form. This will make it much easier and less stressful both for us and for them.
 
