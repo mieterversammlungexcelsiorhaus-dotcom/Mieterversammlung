@@ -23,7 +23,7 @@ If you like to send it, please first add the details in red:
 
 - In <span style="color: red;">day/month/year</span>: Write 3 dates where you could be available to view the documents yourself. We will do our best to have representatives from the union go on your behalf No promises though. We hope that the landlord will just give us the bills in electronic form. This will make it much easier and less stressful both for us and for them.
 
-- In <span style="color: red;">Your name</span>: Your signature.
+- In <span style="color: red;">Your name</span>: Write your own first and last name here.
 
 
 ## Would you like to join?
