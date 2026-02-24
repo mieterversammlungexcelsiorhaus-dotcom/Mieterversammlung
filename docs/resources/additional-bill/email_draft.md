@@ -32,7 +32,12 @@ Bitte stellen Sie uns die Belege als PDF gesammelt und geordnet zur Verfügung.
 
 Bitte an folgende E‑Mail-Adresse: <span style="color: red;">your personal email or kontakt@mg-berlin.org</span>
 
-Sollte dies nicht möglich sein, bitten wir um Zusendung der Belege als Kopie per Post. Hierbei übernehmen wir die Kopierkosten.
+Sollte dies nicht möglich sein, bitten wir um einmalige Zusendung der Belege für alle Mieterinnen und Mieter als Kopie per Post an:
+
+Postfach: 58 03 08
+10413 Berlin
+
+Beim einmaligen postalischen Versand sind wir bereit, die Versandkosten zu übernehmen.
 
 Nur hilfsweise bieten wir Ihnen folgende drei Termine zur Belegeinsicht in Ihren Räumlichkeiten an:
 
@@ -40,7 +45,7 @@ Nur hilfsweise bieten wir Ihnen folgende drei Termine zur Belegeinsicht in Ihren
 - <span style="color: red;">day/month/year</span>
 - <span style="color: red;">day/month/year</span>
 
-Ich behalte mir vor, einen von mir benannten Vertreter zu dem Termin zu entsenden.
+Wir behalten uns vor, einen von uns oder der Mieter*innen Gewerkschaft gewählten Vertreter zum Termin zu schicken.
 
 Wir bitten um Zusendung bzw. Bestätigung eines Termins bzw. ggf. um Gegenvorschläge innerhalb von zwei Wochen.
 
