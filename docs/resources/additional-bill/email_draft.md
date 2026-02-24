@@ -34,6 +34,7 @@ Bitte an folgende E‑Mail-Adresse: <span style="color: red;">your personal emai
 Sollte dies nicht möglich sein, bitten wir um einmalige Zusendung der Belege für alle Mieterinnen und Mieter als Kopie per Post an:
 
 Postfach 58 03 08
+
 10413 Berlin
 
 Beim einmaligen postalischen Versand sind wir bereit, die Versandkosten zu übernehmen.
