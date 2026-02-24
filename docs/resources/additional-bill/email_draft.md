@@ -41,9 +41,9 @@ Beim einmaligen postalischen Versand sind wir bereit, die Versandkosten zu über
 
 Nur hilfsweise bieten wir Ihnen folgende drei Termine zur Belegeinsicht in Ihren Räumlichkeiten an:
 
-- <span style="color: red;">day/month/year</span>
-- <span style="color: red;">day/month/year</span>
-- <span style="color: red;">day/month/year</span>
+- <span style="color: red;">day/month/year. A day during the week at least 2 weeks from now</span>
+- <span style="color: red;">day/month/year. A day during the week at least 2 weeks from now</span>
+- <span style="color: red;">day/month/year. A day during the week at least 2 weeks from now</span>
 
 Wir behalten uns vor, einen von uns oder der Mieter*innen Gewerkschaft gewählten Vertreter zum Termin zu schicken.
 
