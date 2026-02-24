@@ -2,7 +2,7 @@ Sehr geehrte Damen und Herren,
 
 hiermit bitte ich Sie um Belegeinsicht in die Unterlagen, die der Betriebskostenabrechnung für die Periode 2024. 
 
-Die Belegeinsicht bezieht sich auf die Unterlagen zu den zugrunde liegenden Verträgen einschließlich Leistungskatalog / Leistungsbeschreibung, etwaigen Tätigkeits- bzw. Leistungsprotokollen oder Einsatznachweisen, den Rechnungen der Dienstleister, sowie den Zahlungsnachweisen (z. B. Kontoauszüge oder Buchungsbelege), aus denen die tatsächliche Begleichung der Rechnungen hervorgeht.
+Vorzulegen sind neben Rechnungen die zugrunde liegenden Verträgen einschließlich Leistungskatalog / Leistungsbeschreibung, etwaigen Tätigkeits- bzw. Leistungsprotokollen oder Einsatznachweisen, den Rechnungen der Dienstleister, sowie den Zahlungsnachweisen (z. B. Kontoauszüge oder Buchungsbelege), aus denen die tatsächliche Begleichung der Rechnungen hervorgeht und Einzelnachweise zu gemeinsam mit Wärme versorgten Nutzungseinheiten (BGH, VIII ZR 189/17 und VIII ZR 118/19). Eine geordnete Belegübermittlung per PDF wäre wünschenswert.
 
 Konkret bitte ich um Belege zu folgenden Positionen:
 
