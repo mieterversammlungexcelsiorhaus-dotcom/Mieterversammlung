@@ -45,7 +45,7 @@ Nur hilfsweise bieten wir Ihnen folgende drei Termine zur Belegeinsicht in Ihren
 - <span style="color: red;">day/month/year. A day during the week at least 2 weeks from now</span>
 - <span style="color: red;">day/month/year. A day during the week at least 2 weeks from now</span>
 
-Wir behalten uns vor, einen von uns oder der Mieter*innen Gewerkschaft gewählten Vertreter zum Termin zu schicken.
+Wir behalten uns vor, einen von uns oder der Mieter*innen Gewerkschaft gewählten Bevollmächtigten zum Termin zu schicken.
 
 Wir bitten um Zusendung bzw. Bestätigung eines Termins oder ggf. um Gegenvorschläge innerhalb von zwei Wochen.
 
