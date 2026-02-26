@@ -1,9 +1,11 @@
+
 # Additional Costs (Nebenkosten)
 
 Additional costs (Nebenkosten) are expenses beyond the base rent that tenants typically share. These can include utilities and maintenance of common areas.
 In our case there are some points in the additional costs bill which we would like to understand better. 
 For example, we pay around 100,000 EUR for light alone. For a building of our size this is about triple what would be expected.
 
+Contact us: [Telegram Tenant Association (Mietergemeinschaft)](https://t.me/+PuYY31zYhF1jNjdi)
 
 ## What can we do?
 
@@ -30,7 +32,7 @@ If you like to send it, please first add the details in red:
 
 If you have experience checking bills, are an accountant, or similar please let us know. We could use your help. Feel free to reach out to us via 
 
-- Telegram: [Tenant Association (Mietergemeinschaft)](https://t.me/+PuYY31zYhF1jNjdi)
+- Telegram: [Telegram Tenant Association (Mietergemeinschaft)](https://t.me/+PuYY31zYhF1jNjdi)
 - Email: [excelsior@systemli.org](excelsior@systemli.org)
 
 
