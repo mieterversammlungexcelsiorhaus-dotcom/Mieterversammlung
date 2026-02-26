@@ -136,7 +136,7 @@ Diese Website bzw. dieser Brief stellt keine Rechtsberatung dar.
 
 ---
 
-# 🇹🇷🇩🇪 Türkçe
+# 🇹🇷 Türkçe
 
 # Ek Masraflar (Nebenkosten)
 
