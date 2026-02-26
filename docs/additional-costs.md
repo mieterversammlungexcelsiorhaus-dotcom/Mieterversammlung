@@ -1,6 +1,6 @@
 Join us: [Telegram Mietergemeinschaft](https://t.me/+PuYY31zYhF1jNjdi)
 
-# 🇬🇧🇺🇸 English
+# 🇬🇧 English
 
 # Additional Costs (Nebenkosten)
 
@@ -46,7 +46,7 @@ This website and the letter do not constitute legal advice.
 
 ---
 
-# 🇩🇪🇦🇹🇨🇭 Deutsch
+# 🇩🇪 Deutsch
 
 # Nebenkosten
 
@@ -91,7 +91,7 @@ Diese Website bzw. dieser Brief stellt keine Rechtsberatung dar.
 ---
 
 
-# 🇸🇦🇪🇬🇯🇴 العربية
+# 🇸🇦 العربية
 
 # التكاليف الإضافية (Nebenkosten)
 
