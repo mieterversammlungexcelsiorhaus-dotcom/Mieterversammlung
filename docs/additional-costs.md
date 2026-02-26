@@ -1,5 +1,49 @@
 Join us: [Telegram Mietergemeinschaft](https://t.me/+PuYY31zYhF1jNjdi)
 
+# 🇬🇧🇺🇸 English
+
+# Additional Costs (Nebenkosten)
+
+Additional costs (Nebenkosten) are expenses beyond the base rent that tenants typically share. These can include utilities and maintenance of common areas.  
+In our case, there are some points in the additional costs bill that we would like to understand better.  
+For example, we pay around 100,000 EUR for light alone. For a building of our size, this is about three times what would be expected.
+
+Contact us: [Telegram Tenant Association (Mietergemeinschaft)](https://t.me/+PuYY31zYhF1jNjdi)
+
+## What can we do?
+
+As tenants, **we have the right** to request all receipts related to our additional costs bill. We can review these documents and check them for errors.  
+**If we find errors**, we can demand to **get our money back** for the incorrect items.  
+Right now, we do not know whether there are any errors. We only see positions that seem high, which is why our first step needs to be creating transparency and **asking for the receipts**.
+
+## The Email
+
+[Under this link you will find an email draft that you can send to our landlord](resources/additional-bill/email_draft.md). With this mail, we can request all receipts connected to the additional costs bill.  
+You can add the required information in red and send it to:  
+[Elke.Palisch@Bellatris-RE.com](mailto:Elke.Palisch@Bellatris-RE.com)
+
+If you would like to send it, please first add the details in red:
+
+- In <span style="color: red;">your personal email or excelsior@systemli.org</span>: Write your own email. Alternatively, if you do not wish to use your own address, use [excelsior@systemli.org](mailto:excelsior@systemli.org). This is the address to which the landlord will send scans of bills and documents. If you receive any bills, please share them in Telegram or via email to [excelsior@systemli.org](mailto:excelsior@systemli.org).
+
+- In <span style="color: red;">day/month/year</span>: Write 3 dates when you would be available to review the documents in person. We will try to have representatives attend on your behalf. We hope the landlord will provide the documents electronically, which would make it much easier and less stressful for everyone.
+
+- In <span style="color: red;">Your name</span>: Write your first and last name here.
+
+## Would you like to join?
+
+If you have experience checking bills, are an accountant, or have similar expertise, please let us know. We could use your help.
+
+- Telegram: [Telegram Tenant Association (Mietergemeinschaft)](https://t.me/+PuYY31zYhF1jNjdi)  
+- Email: [excelsior@systemli.org](mailto:excelsior@systemli.org)
+
+## Disclaimer
+
+Before taking any legal steps, we recommend consulting a lawyer.  
+This website and the letter do not constitute legal advice.
+
+
+
 ---
 
 # 🇩🇪🇦🇹🇨🇭 Deutsch
@@ -46,49 +90,6 @@ Diese Website bzw. dieser Brief stellt keine Rechtsberatung dar.
 
 ---
 
-# 🇬🇧🇺🇸 English
-
-# Additional Costs (Nebenkosten)
-
-Additional costs (Nebenkosten) are expenses beyond the base rent that tenants typically share. These can include utilities and maintenance of common areas.  
-In our case, there are some points in the additional costs bill that we would like to understand better.  
-For example, we pay around 100,000 EUR for light alone. For a building of our size, this is about three times what would be expected.
-
-Contact us: [Telegram Tenant Association (Mietergemeinschaft)](https://t.me/+PuYY31zYhF1jNjdi)
-
-## What can we do?
-
-As tenants, **we have the right** to request all receipts related to our additional costs bill. We can review these documents and check them for errors.  
-**If we find errors**, we can demand to **get our money back** for the incorrect items.  
-Right now, we do not know whether there are any errors. We only see positions that seem high, which is why our first step needs to be creating transparency and **asking for the receipts**.
-
-## The Email
-
-[Under this link you will find an email draft that you can send to our landlord](resources/additional-bill/email_draft.md). With this mail, we can request all receipts connected to the additional costs bill.  
-You can add the required information in red and send it to:  
-[Elke.Palisch@Bellatris-RE.com](mailto:Elke.Palisch@Bellatris-RE.com)
-
-If you would like to send it, please first add the details in red:
-
-- In <span style="color: red;">your personal email or excelsior@systemli.org</span>: Write your own email. Alternatively, if you do not wish to use your own address, use [excelsior@systemli.org](mailto:excelsior@systemli.org). This is the address to which the landlord will send scans of bills and documents. If you receive any bills, please share them in Telegram or via email to [excelsior@systemli.org](mailto:excelsior@systemli.org).
-
-- In <span style="color: red;">day/month/year</span>: Write 3 dates when you would be available to review the documents in person. We will try to have representatives attend on your behalf. We hope the landlord will provide the documents electronically, which would make it much easier and less stressful for everyone.
-
-- In <span style="color: red;">Your name</span>: Write your first and last name here.
-
-## Would you like to join?
-
-If you have experience checking bills, are an accountant, or have similar expertise, please let us know. We could use your help.
-
-- Telegram: [Telegram Tenant Association (Mietergemeinschaft)](https://t.me/+PuYY31zYhF1jNjdi)  
-- Email: [excelsior@systemli.org](mailto:excelsior@systemli.org)
-
-## Disclaimer
-
-Before taking any legal steps, we recommend consulting a lawyer.  
-This website and the letter do not constitute legal advice.
-
----
 
 # 🇸🇦🇪🇬🇯🇴 العربية
 
