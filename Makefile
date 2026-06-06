@@ -1,4 +1,4 @@
-.PHONY: install serve build help
+.PHONY: install serve build help stop
 
 help:
 	@echo "Available commands:"
@@ -30,3 +30,15 @@ build: install setup clean
 
 clean:
 	cd docs && rm -rf _site
+
+stop:
+	@echo "Stopping Jekyll server (port 4000)..."
+	@pids="$$(lsof -ti TCP:4000 2>/dev/null)"; \
+	if [ -n "$$pids" ]; then \
+		echo "Killing: $$pids"; \
+		kill -9 $$pids || true; \
+		echo "Stopped."; \
+	else \
+		echo "No process listening on port 4000. Trying pkill for 'jekyll'..."; \
+		pkill -f "jekyll" 2>/dev/null || echo "No jekyll process found."; \
+	fi
