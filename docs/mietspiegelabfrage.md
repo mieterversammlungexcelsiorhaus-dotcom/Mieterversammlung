@@ -52,7 +52,7 @@ Mit dem Anfang Ihres Suchbegriff beginnen folgende Straßennamen:
 <h3 class="street">Stresemannstraße (Friedrichshain-Kreuzberg)</h3>
 <ul class="bullet-red">
 	<li><span style="color: blue; text-decoration: underline;">ungerade Hausnummern von 15 bis 71</span></li>
-    <li><span class="inline-arrow" aria-hidden="true">➜</span><span class="highlighted-text">gerade Hausnummern von 28 bis 78</span></li>
+    <li><span class="inline-arrow" aria-hidden="true">➜</span><span class="highlighted-text"><a href="/fertigstellung-und-groesse/">gerade Hausnummern von 28 bis 78</a></span></li>
 	<li><span style="color: blue; text-decoration: underline;">gerade Hausnummern von 90 bis 110</span></li>
 	<li><span style="color: blue; text-decoration: underline;">ungerade Hausnummern von 91 bis 109</span></li>
 	<li><span style="color: blue; text-decoration: underline;">ungerade Hausnummern von 111 bis 127</span></li>
