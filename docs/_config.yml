@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Excelsiorhaus Mietergemeinschaft
 description: Excelsiorhaus Tenant Association
+repository: username/repository-name
 
 collections:
   past_meetings:

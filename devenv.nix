@@ -7,6 +7,7 @@
 {
   # https://devenv.sh/languages/
   languages.ruby.enable = true;
+  languages.ruby.version = "3.2";
 
   # https://devenv.sh/packages/
   packages = [

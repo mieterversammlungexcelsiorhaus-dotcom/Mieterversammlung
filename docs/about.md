@@ -41,7 +41,5 @@ A building that is cared for.
 A community that stands together.  
 A home we are proud of.  
 
-## Links
 
-### [Excelsiorhaus Telegram](https://t.me/excelsiorhaus)
 

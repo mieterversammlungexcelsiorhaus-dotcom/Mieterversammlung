@@ -27,9 +27,8 @@ and connected.
 
 ## Upcoming Meetings
 
-We have another meeting planned on December 15th 2025. We invited a lawyer from the Berlin Tenant Association to talk about the utility bill. You can find more infos [here](nebenkosten.html).
-
+We have another meeting planned on December 15th 2025. We invited a lawyer from the Berlin Tenant Association to talk about the utility bill.
 
 ## Past Meetings
 
-You can find [past meetings]({{ "/past_meetings" | absolute_url }}) here.
+You can find past meetings in the Past Meetings section.
