@@ -22,7 +22,7 @@ brew:
 install: setup clean
 	cd docs && bundle install
 
-serve: install setup clean
+serve: install setup clean stop
 	cd docs && bundle exec jekyll serve
 
 build: install setup clean
