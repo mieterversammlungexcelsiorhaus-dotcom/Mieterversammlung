@@ -186,7 +186,7 @@ permalink: /spanneneinordnung/
         <td>
           <p><label><input type="radio" name="E_4_energie" value="N_4_1"> Unzureichende Wärmedämmung oder Heizanlage mit ungünstigem Wirkungsgrad (Einbau/Installation der Heizanlage vor 1995)</label></p>
           <p><label><input type="radio" name="E_4_energie" value="N_4_2">
-		  <span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">← ℹ️</span><span class="tooltiptext">Unser wert ist bei 160, ist aber abhängig von den Gebäuden. Wahrscheinlich hier</span></span>
+		  <span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">← ℹ️</span><span class="tooltiptext">Unser Wert ist bei 160, ist aber abhängig von den Gebäuden. Wahrscheinlich hier</span></span>
 		  
 		  
 		  (End-)Energieverbrauchskennwert größer als 145 kWh/(m²a)</label></p>
