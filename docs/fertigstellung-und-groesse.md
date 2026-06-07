@@ -47,5 +47,5 @@ Bitte wählen Sie den Zeitraum der Fertigstellung des gewählten Hauses.
 		<label class="option-label"><input type="radio" name="wohnflaeche" value="ab-120">ab 120 m²</label>
 	</fieldset>
 
-	<p style="margin-top:1rem;"><a href="zwischenergebnis/" style="display:inline-block;padding:0.5rem 1rem;background-color:white;color:black;border:2px solid #000;text-decoration:none;border-radius:4px;font-weight:700;"><span class="inline-arrow" aria-hidden="true">➜</span>Weiter zum Zwischenergebnis</a></p>
+	<p style="margin-top:1rem;"><a href="../zwischenergebnis/" style="display:inline-block;padding:0.5rem 1rem;background-color:white;color:black;border:2px solid #000;text-decoration:none;border-radius:4px;font-weight:700;"><span class="inline-arrow" aria-hidden="true">➜</span>Weiter zum Zwischenergebnis</a></p>
 </form>

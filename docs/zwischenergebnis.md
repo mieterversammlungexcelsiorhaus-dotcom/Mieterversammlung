@@ -23,7 +23,7 @@ Ihr Zwischenergebnis: Nettokaltmiete (EURO):
       <td>
         <span class="min"><strong>untere grenze</strong></span>
         <strong><span class="chevron chevron-right" aria-hidden="true"></span></strong>
-        <span class="mittel"><span class="inline-arrow" aria-hidden="true">➜</span> <strong><a href="spanneneinordnung/">hier klicken</a></strong></span>
+        <span class="mittel"><span class="inline-arrow" aria-hidden="true">➜</span> <strong><a href="../spanneneinordnung/">hier klicken</a></strong></span>
         <span class="max"><strong><span class="chevron chevron-left" aria-hidden="true"></span> obere grenze</strong></span>
       </td>
     </tr>
