@@ -78,6 +78,7 @@ permalink: /ergebnis/
   </tr>
 </table>
 
-<p><a href="/druckversion/" class="button button--white">Zusammenfassung / Druckversion der Mietspiegelabfrage anzeigen</a><span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">← ℹ️</span><span class="tooltiptext">Hier klicken, das Ergebnis als PDF drucken und uns schicken!</span></span></p>
+<p><span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">→</span><span class="tooltiptext">Hier klicken, das Ergebnis als PDF drucken und uns schicken!</span></span> <a href="/druckversion/" class="button button--white">Zusammenfassung / Druckversion der Mietspiegelabfrage anzeigen</a></p>
+
 
 

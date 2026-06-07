@@ -1,11 +1,12 @@
 ---
 layout: rental-guide
-title: Druckversion der Mietspiegelabfrage
+title: Berliner Mietspiegel Anleitung
 permalink: /druckversion/
 ---
 
-## Druckversion der Mietspiegelabfrage
+## Druckversion
 
-Hier wird die Zusammenfassung und Druckversion der Mietspiegelabfrage angezeigt.
 
-<p>Diese Seite kann später mit einer druckoptimierten Darstellung ergänzt werden.</p>
+Bitte das PDF speichern und uns schicken. 
+
+
