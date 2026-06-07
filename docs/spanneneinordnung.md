@@ -8,13 +8,14 @@ permalink: /spanneneinordnung/
 
 <form action="#" method="get">
 
-## Merkmalgruppe 1: Bad/WC/Gäste-WC
-
-<table>
+<table class="merkmal-table">
   <thead>
     <tr>
-      <th>➖ Wohnwertmindernde Merkmale</th> 
-      <th>➕ Wohnwerterhöhende Merkmale</th>
+      <th class="group-title" colspan="2">Merkmalgruppe 1: Bad/WC/Gäste-WC</th>
+    </tr>
+    <tr>
+      <th class="subheader">➖ Wohnwertmindernde Merkmale</th>
+      <th class="subheader">➕ Wohnwerterhöhende Merkmale</th>
     </tr>
   </thead>
   <tbody>
@@ -50,13 +51,14 @@ permalink: /spanneneinordnung/
 
 <p>&nbsp;</p>
 
-## Merkmalgruppe 2: Küche
-
-<table>
+<table class="merkmal-table">
   <thead>
     <tr>
-      <th>➖ Wohnwertmindernde Merkmale</th>
-      <th>➕ Wohnwerterhöhende Merkmale</th>
+      <th class="group-title" colspan="2">Merkmalgruppe 2: Küche</th>
+    </tr>
+    <tr>
+      <th class="subheader">➖ Wohnwertmindernde Merkmale</th>
+      <th class="subheader">➕ Wohnwerterhöhende Merkmale</th>
     </tr>
   </thead>
   <tbody>
@@ -85,13 +87,14 @@ permalink: /spanneneinordnung/
 
 <p>&nbsp;</p>
 
-## Merkmalgruppe 3: Wohnung
-
-<table>
+<table class="merkmal-table">
   <thead>
     <tr>
-      <th>➖ Wohnwertmindernde Merkmale</th>
-      <th>➕ Wohnwerterhöhende Merkmale</th>
+      <th class="group-title" colspan="2">Merkmalgruppe 3: Wohnung</th>
+    </tr>
+    <tr>
+      <th class="subheader">➖ Wohnwertmindernde Merkmale</th>
+      <th class="subheader">➕ Wohnwerterhöhende Merkmale</th>
     </tr>
   </thead>
   <tbody>
@@ -125,13 +128,14 @@ permalink: /spanneneinordnung/
 
 <p>&nbsp;</p>
 
-## Merkmalgruppe 4: Gebäude
-
-<table>
+<table class="merkmal-table">
   <thead>
     <tr>
-      <th>➖ Wohnwertmindernde Merkmale</th>
-      <th>➕ Wohnwerterhöhende Merkmale</th>
+      <th class="group-title" colspan="2">Merkmalgruppe 4: Gebäude</th>
+    </tr>
+    <tr>
+      <th class="subheader">➖ Wohnwertmindernde Merkmale</th>
+      <th class="subheader">➕ Wohnwerterhöhende Merkmale</th>
     </tr>
   </thead>
   <tbody>
@@ -162,11 +166,14 @@ permalink: /spanneneinordnung/
   <h3>Energiebezogene Merkmale</h3>
   <p>Die (End-)Energieverbrauchskennwerte beziehen sich auf Energie für Heizung und Warmwasser. Für die Einordnung eines Endenergiebedarfskennwertes sind die unten angegebenen Verbrauchsenergiekennwert-Grenzen um 20% zu erhöhen. Für Kennwerte ohne Berücksichtigung der dezentralen Warmwasserversorgung sind vor der Eingruppierung <strong>20 kWh/(m²a)</strong> auf den (End-)Energiekennwert aufzuschlagen.</p>
   <p>Bei Wohnungen, die in denkmalgeschützten Gebäuden gelegen sind, werden die wohnwertmindernden Merkmale zur energetischen Beschaffenheit dann nicht berücksichtigt, wenn die Umsetzung von energetischen Sanierungen gegen denkmalschutzrechtliche Belange verstoßen würde oder deren Umsetzung durch denkmalschutzrechtliche Auflagen unverhältnismäßig (teuer) wäre.</p>
-  <table>
+  <table class="merkmal-table">
     <thead>
       <tr>
-        <th>➖ Wohnwertmindernde Merkmale</th>
-        <th>➕ Wohnwerterhöhende Merkmale</th>
+        <th class="group-title" colspan="2">Energiebezogene Merkmale</th>
+      </tr>
+      <tr>
+        <th class="subheader">➖ Wohnwertmindernde Merkmale</th>
+        <th class="subheader">➕ Wohnwerterhöhende Merkmale</th>
       </tr>
     </thead>
     <tbody>
@@ -193,11 +200,14 @@ permalink: /spanneneinordnung/
 
 ## Merkmalgruppe 5: Wohnumfeld
 
-<table>
+<table class="merkmal-table">
   <thead>
     <tr>
-      <th>➖ Wohnwertmindernde Merkmale</th>
-      <th>➕ Wohnwerterhöhende Merkmale</th>
+      <th class="group-title" colspan="2">Merkmalgruppe 5: Wohnumfeld</th>
+    </tr>
+    <tr>
+      <th class="subheader">➖ Wohnwertmindernde Merkmale</th>
+      <th class="subheader">➕ Wohnwerterhöhende Merkmale</th>
     </tr>
   </thead>
   <tbody>
