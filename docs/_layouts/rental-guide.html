@@ -154,6 +154,46 @@
         border-radius: 3px;
         margin: 0 0 0.5rem 0;
       }
+      .result-summary {
+        background: #c21414;
+        color: #ffffff;
+        padding: 1rem;
+        border-radius: 4px;
+        margin: 1.5rem 0 0 0; /* keep top spacing, remove bottom gap */
+      }
+      .result-summary table {
+        width: 100%;
+        color: #ffffff;
+        border-collapse: collapse;
+      }
+      .result-summary td {
+        padding: 0.5rem 0;
+        vertical-align: top;
+      }
+      .result-summary .result-value {
+        font-weight: 700;
+        text-decoration: underline;
+        text-align: right;
+        white-space: nowrap;
+      }
+      .result-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 0; /* remove gap above table */
+        margin-bottom: 1rem;
+      }
+      .result-table td {
+        background: #ffffff;
+        color: #000000;
+        padding: 0.75rem;
+        border: 1px solid #d1d1d1;
+        vertical-align: top;
+      }
+      .result-table .result-value {
+        font-weight: 700;
+        text-decoration: underline;
+        text-align: right;
+      }
       /* Ensure a solid vertical separator between the two columns */
       .merkmal-table td + td,
       .merkmal-table th + th {
@@ -312,6 +352,25 @@
       .button--white:focus {
         outline: 3px solid rgba(0, 68, 102, 0.35);
         outline-offset: 2px;
+      }
+      .light-table-header th {
+        background: #f0f0f0;
+        color: #000000;
+        font-weight: 700;
+      }
+      .saldo-row td {
+        background: #f0f0f0;
+        color: #000000;
+        font-weight: 700;
+      }
+      .section-heading-dark {
+        background: #333333;
+        color: #ffffff;
+        padding: 0.75rem 1rem;
+        border-radius: 4px;
+        margin: 1.5rem 0 1rem 0;
+        font-size: 1.1rem;
+        font-weight: 700;
       }
       .button:focus,
       button[type="submit"]:focus,
