@@ -37,13 +37,13 @@ permalink: /spanneneinordnung/
       <td>
         <p><label><input type="checkbox" name="P_1_1"> Sehr großes Waschbecken (Außenmaß mindestens 80 cm breit) oder Doppelhandwaschbecken oder zwei getrennte Waschbecken<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
         <p><label><input type="checkbox" name="P_1_2"> Besondere und hochwertige Ausstattung (z.B. hochwertige Sanitärausstattung, hochwertige Badmöbel, Eckwanne, Rundwanne, Echtglastrennwand, Regendusche)<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
-        <p><label><input type="checkbox" name="P_1_4"> Innen liegendes Bad mit moderner, gesteuerter Entlüftung (z.B. mittels Feuchtigkeitssensor)<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
+        <p><label><input type="checkbox" name="P_1_4"><span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">ℹ️</span><span class="tooltiptext">Wahrscheinlich nicht. Wenn die Belüftung die ganze zeit geht, dann zählt das nicht.</span></span> Innen liegendes Bad mit moderner, gesteuerter Entlüftung (z.B. mittels Feuchtigkeitssensor)<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
         <p><label><input type="checkbox" name="P_1_94"> Zweites WC in der Wohnung oder Bad und WC getrennt</label></p>
         <p><label><input type="checkbox" name="P_1_95"> Mindestens ein Bad mit Grundfläche größer als 8 m²<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
         <p><label><input type="checkbox" name="P_1_96"> Fußbodenheizung<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
-        <p><label><input type="checkbox" name="P_1_97"> Wandbekleidung und Bodenbelag hochwertig (gilt nicht für die Baualtersklassen ab 2010)<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
+        <p><label><input type="checkbox" name="P_1_97"><span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">ℹ️</span><span class="tooltiptext">Wahrscheinlich nein</span></span>  Wandbekleidung und Bodenbelag hochwertig (gilt nicht für die Baualtersklassen ab 2010)<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
         <p><label><input type="checkbox" name="P_1_3"> Wandhängendes WC mit in der Wand eingelassenem Spülkasten (gilt nicht für die Baualtersklassen ab 2002) oder hochwertiges Stand-WC<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
-        <p><label><input type="checkbox" name="P_1_6"> Strukturheizkörper als Handtuchwärmer im Bad (gilt für Baualtersklassen bis einschließlich 2001); sofern zusätzlich elektrisch betreibbar: alle Baujahre<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
+        <p><label><input type="checkbox" name="P_1_6"><span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">ℹ️</span><span class="tooltiptext">Wahrscheinlich nein</span></span>  Strukturheizkörper als Handtuchwärmer im Bad (gilt für Baualtersklassen bis einschließlich 2001); sofern zusätzlich elektrisch betreibbar: alle Baujahre<br><i>[bezieht sich nicht auf Gäste-WCs]</i></label></p>
         <p><label><input type="checkbox" name="P_1_93"> Von der Badewanne getrennte zusätzliche Duschtasse oder -kabine</label></p>
         <p><label><input type="checkbox" name="P_1_108"> Bodengleiche Dusche (auch flache Duschtasse mit einer Tiefe von bis zu 3 cm)</label></p>
       </td>
@@ -143,8 +143,8 @@ permalink: /spanneneinordnung/
   <tbody>
     <tr>
       <td>
-        <p><label><input type="checkbox" name="N_4_65"> Treppenhaus und Eingangsbereich überwiegend in schlechtem Zustand</label></p>
-        <p><label><input type="checkbox" name="N_4_66"> Kein Abstellraum außerhalb der Wohnung zur alleinigen Nutzung ohne Zusatzkosten (z.B. kein abschließbarer Keller)</label></p>
+        <p><label><input type="checkbox" name="N_4_65"><strong><span class="inline-arrow" aria-hidden="true">←</span></strong> Treppenhaus und Eingangsbereich überwiegend in schlechtem Zustand</label></p>
+        <p><label><input type="checkbox" name="N_4_66"><strong><span class="inline-arrow" aria-hidden="true">←</span></strong> Kein Abstellraum außerhalb der Wohnung zur alleinigen Nutzung ohne Zusatzkosten (z.B. kein abschließbarer Keller)</label></p>
         <p><label><input type="checkbox" name="N_4_67"> Jederzeit von außen frei zugänglicher Hauseingang/Treppenhaus</label></p>
         <p><label><input type="checkbox" name="N_4_68"> Schlechter Instandhaltungszustand (z.B. dauernde Durchfeuchtung des Mauerwerks - auch Keller -, große Putzschäden, erhebliche Schäden an der Dacheindeckung)</label></p>
         <p><label><input type="checkbox" name="N_4_69"> Lage im Seitenflügel oder Quergebäude bei verdichteter Bebauung</label></p>
@@ -165,7 +165,7 @@ permalink: /spanneneinordnung/
 </table>
 
 <div class="energie-section">
-  <h3 class="energy-explainer">Erläuterung zu den folgenden energiespezifischen Eingaben ()</h3>
+  <h3 class="energy-explainer">Erläuterung zu den folgenden energiespezifischen Eingaben</h3>
   <p>Die (End-)Energieverbrauchskennwerte beziehen sich auf Energie für Heizung und Warmwasser. Für die Einordnung eines Endenergiebedarfskennwertes sind die unten angegebenen Verbrauchsenergiekennwert-Grenzen um 20% zu erhöhen. Für Kennwerte ohne Berücksichtigung der dezentralen Warmwasserversorgung sind vor der Eingruppierung 20 kWh/(m²a) auf den (End-)Energiekennwert aufzuschlagen.</p>
   <p>Bei Wohnungen, die in denkmalgeschützten Gebäuden gelegen sind, werden die wohnwertmindernden Merkmale zur energetischen Beschaffenheit dann nicht berücksichtigt, wenn die Umsetzung von energetischen Sanierungen gegen denkmalschutzrechtliche Belange verstoßen würde oder deren Umsetzung durch denkmalschutzrechtliche Auflagen unverhältnismäßig (teuer) wäre.</p>
   <table class="merkmal-table energy-table">
@@ -182,7 +182,11 @@ permalink: /spanneneinordnung/
       <tr>
         <td>
           <p><label><input type="radio" name="E_4_energie" value="N_4_1"> Unzureichende Wärmedämmung oder Heizanlage mit ungünstigem Wirkungsgrad (Einbau/Installation der Heizanlage vor 1995)</label></p>
-          <p><label><input type="radio" name="E_4_energie" value="N_4_2"> (End-)Energieverbrauchskennwert größer als 145 kWh/(m²a)</label></p>
+          <p><label><input type="radio" name="E_4_energie" value="N_4_2">
+		  <span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">← ℹ️</span><span class="tooltiptext">Under wert ist bei 160, ist aber abhängig von den Gebäuden. Wahrscheinlich hier</span></span>
+		  
+		  
+		  (End-)Energieverbrauchskennwert größer als 145 kWh/(m²a)</label></p>
           <p><label><input type="radio" name="E_4_energie" value="N_4_3"> (End-)Energieverbrauchskennwert größer als 195 kWh/(m²a)</label></p>
           <p><label><input type="radio" name="E_4_energie" value="N_4_4"> (End-)Energieverbrauchskennwert größer als 235 kWh/(m²a)</label></p>
         </td>
@@ -211,7 +215,7 @@ permalink: /spanneneinordnung/
   <tbody>
     <tr>
       <td>
-        <p><label><input type="checkbox" name="N_5_74"> Besonders lärmbelastete Lage der Wohnung (Die Wohnung liegt beispielsweise an einer Hauptverkehrsstraße oder im unmittelbaren Umfeld eines Flughafens und erfährt dadurch unangenehme Lärm- und Staubemissionen. Daneben können auch große Fabrik- und Industrieanlagen, aber auch Gewerbe-, Restaurant- und Partylärm Ursache für eine besonders lärmbelastete Lage sein.)*</label></p>
+        <p><label><input type="checkbox" name="N_5_74"><span class="tooltip-info"><span class="inline-arrow" aria-hidden="true"> ℹ️</span><span class="tooltiptext">Du kannst das ankreuzen wenn das Fenster raus zur Stresemannstraße geht. Ansonsten nicht.</span></span> Besonders lärmbelastete Lage der Wohnung (Die Wohnung liegt beispielsweise an einer Hauptverkehrsstraße oder im unmittelbaren Umfeld eines Flughafens und erfährt dadurch unangenehme Lärm- und Staubemissionen. Daneben können auch große Fabrik- und Industrieanlagen, aber auch Gewerbe-, Restaurant- und Partylärm Ursache für eine besonders lärmbelastete Lage sein.)*</label></p>
         <p><label><input type="checkbox" name="N_5_75"> Besonders geruchsbelastete Lage</label></p>
         <p><label><input type="checkbox" name="N_5_76"> Keine Fahrradabstellmöglichkeit auf dem Grundstück</label></p>
       </td>
@@ -227,7 +231,7 @@ permalink: /spanneneinordnung/
 
 <p>* Hinweise auf bestehende Lärmbelastung von Wohngebäuden werden durch die Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt bereitgestellt. Die Strategischen Lärmkarten mit einer gebäudescharfen Darstellung der Fassadenpegel an lärmbeeinflussten Wohngebäuden sind auf der <a href="https://www.berlin.de/sen/uvk/umwelt/laerm/laermminderungsplanung-berlin/laermkarten/" target="_blank">Internetseite dieser Senatsverwaltung</a> veröffentlicht.</p>
 
-<p><button type="submit">Ortsübliche Vergleichsmiete bestimmen</button></p>
+<p><button type="submit" class="button">Ortsübliche Vergleichsmiete bestimmen</button></p>
 
 </form>
 

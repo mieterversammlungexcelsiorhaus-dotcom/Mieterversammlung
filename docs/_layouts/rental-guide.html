@@ -280,6 +280,38 @@
       .info-box {
         display: none;
       }
+      .button,
+      button[type="submit"],
+      input[type="submit"] {
+        display: inline-block;
+        background-color: #003366;
+        color: #ffffff;
+        border: 1px solid #003366;
+        border-radius: 4px;
+        padding: 0.75rem 1.25rem;
+        font-size: 1rem;
+        font-weight: 700;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background-color 0.2s ease, transform 0.1s ease;
+      }
+      .button:hover,
+      button[type="submit"]:hover,
+      input[type="submit"]:hover {
+        background-color: #002244;
+      }
+      .button:focus,
+      button[type="submit"]:focus,
+      input[type="submit"]:focus {
+        outline: 3px solid rgba(0, 68, 102, 0.35);
+        outline-offset: 2px;
+      }
+      .button:active,
+      button[type="submit"]:active,
+      input[type="submit"]:active {
+        transform: translateY(1px);
+      }
       footer {
         background-color: #f0f0f0;
         padding: 1rem 2rem;
