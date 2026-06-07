@@ -6,6 +6,8 @@ permalink: /spanneneinordnung/
 
 # Spanneneinordnung
 
+<span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">ℹ️</span><span class="tooltiptext">Fülle das so gut aus wie du es weißt. Wenn du fragen helfen wir dir gerne</span></span>
+
 <form action="#" method="get">
 
 <table class="merkmal-table">
@@ -162,11 +164,11 @@ permalink: /spanneneinordnung/
   </tbody>
 </table>
 
-<div>
-  <h3>Energiebezogene Merkmale</h3>
-  <p>Die (End-)Energieverbrauchskennwerte beziehen sich auf Energie für Heizung und Warmwasser. Für die Einordnung eines Endenergiebedarfskennwertes sind die unten angegebenen Verbrauchsenergiekennwert-Grenzen um 20% zu erhöhen. Für Kennwerte ohne Berücksichtigung der dezentralen Warmwasserversorgung sind vor der Eingruppierung <strong>20 kWh/(m²a)</strong> auf den (End-)Energiekennwert aufzuschlagen.</p>
+<div class="energie-section">
+  <h3 class="energy-explainer">Erläuterung zu den folgenden energiespezifischen Eingaben ()</h3>
+  <p>Die (End-)Energieverbrauchskennwerte beziehen sich auf Energie für Heizung und Warmwasser. Für die Einordnung eines Endenergiebedarfskennwertes sind die unten angegebenen Verbrauchsenergiekennwert-Grenzen um 20% zu erhöhen. Für Kennwerte ohne Berücksichtigung der dezentralen Warmwasserversorgung sind vor der Eingruppierung 20 kWh/(m²a) auf den (End-)Energiekennwert aufzuschlagen.</p>
   <p>Bei Wohnungen, die in denkmalgeschützten Gebäuden gelegen sind, werden die wohnwertmindernden Merkmale zur energetischen Beschaffenheit dann nicht berücksichtigt, wenn die Umsetzung von energetischen Sanierungen gegen denkmalschutzrechtliche Belange verstoßen würde oder deren Umsetzung durch denkmalschutzrechtliche Auflagen unverhältnismäßig (teuer) wäre.</p>
-  <table class="merkmal-table">
+  <table class="merkmal-table energy-table">
     <thead>
       <tr>
         <th class="group-title" colspan="2">Energiebezogene Merkmale</th>
@@ -195,10 +197,6 @@ permalink: /spanneneinordnung/
   </table>
   <p><label><input type="radio" name="E_4_energie" value="D_4_9" checked> keine Auswahl / energiespezifische Merkmale unbekannt</label></p>
 </div>
-
-<p>&nbsp;</p>
-
-## Merkmalgruppe 5: Wohnumfeld
 
 <table class="merkmal-table">
   <thead>

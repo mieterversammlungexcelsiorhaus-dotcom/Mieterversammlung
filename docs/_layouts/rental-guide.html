@@ -127,6 +127,59 @@
         text-align: left;
         padding: 0.5rem;
       }
+      /* Energy explainer and energy-specific table styling */
+      .energy-explainer {
+        background: #dae3ec;
+        color: #5e84ab;
+        padding: 0.5rem 0.75rem;
+        border-radius: 3px;
+        display: inline-block;
+        margin-bottom: 0.75rem;
+        font-weight: 700;
+      }
+      .energy-table .subheader {
+        background: #ebf1f8;
+        color: #5e84ab;
+      }
+      .energy-table tbody td,
+      .energy-table tbody th {
+        background: #ebf1f8;
+        color: #5e84ab;
+      }
+      /* Style the explanatory paragraphs above the energy table */
+      .energie-section p {
+        background: #ebf1f8;
+        color: #5e84ab;
+        padding: 0.5rem;
+        border-radius: 3px;
+        margin: 0 0 0.5rem 0;
+      }
+      /* Ensure a solid vertical separator between the two columns */
+      .merkmal-table td + td,
+      .merkmal-table th + th {
+        border-left: 2px solid #000;
+      }
+      /* Stronger divider under the group title */
+      .merkmal-table .group-title {
+        border-bottom: 2px solid #000;
+      }
+      /* Tighter paragraph spacing inside cells to avoid visual gaps */
+      .merkmal-table td p,
+      .merkmal-table th p {
+        margin: 0 0 0.5rem 0;
+      }
+      /* Strong horizontal separators between body rows */
+      .merkmal-table tbody tr + tr td,
+      .merkmal-table tbody tr + tr th {
+        border-top: 2px solid #000;
+      }
+      /* Black separators between adjacent items (paragraphs) within the same cell */
+      .merkmal-table td p + p,
+      .merkmal-table th p + p {
+        border-top: 1px solid #000;
+        padding-top: 0.5rem;
+        margin-top: 0.5rem;
+      }
       .section-title {
         font-size: 1.5rem;
         color: #003366;
