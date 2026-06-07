@@ -225,7 +225,7 @@ permalink: /spanneneinordnung/
       <td>
         <p><label><input type="checkbox" name="P_5_61"><span class="tooltip-info"><span class="inline-arrow" aria-hidden="true"> ℹ️</span><span class="tooltiptext">Du kannst das ankreuzen wenn du in Richtung Fernsehturm schaust</span></span> Besonders ruhige Lage der Wohnung (Die Wohnung liegt beispielsweise an einer verkehrsberuhigten Straße, oder an einer parkähnlichen Anlage oder es gibt bauliche Einschränkungen für die Straßen, wie z.B. Poller, Verengung der Fahrbahn, Bepflanzung.)</label></p>
         <p><label><input type="checkbox" name="P_5_63"> Aufwändig gestaltetes Wohnumfeld auf dem Grundstück (z.B. Kinderspielplatz – bei Bezugsfertigkeit des Gebäudes vor 2003, Sitzbänke oder Ruhezonen, gute Gehwegbefestigung mit Grünflächen und Beleuchtung)</label></p>
-        <p><label><input type="checkbox" name="P_5_64"> Vom Vermieter zur Verfügung gestelltes PKW-Parkplatzangebot in der Nähe (ausreichend dimensioniert)</label></p>
+        <p><label><input type="checkbox" name="P_5_64"><span class="tooltip-info"><span class="inline-arrow" aria-hidden="true">← ℹ️</span><span class="tooltiptext">Ich glaube ja, wegen der Parkgarage hinter dem Haus.</span></span> Vom Vermieter zur Verfügung gestelltes PKW-Parkplatzangebot in der Nähe (ausreichend dimensioniert)</label></p>
         <p><label><input type="checkbox" name="P_5_101"> Garten zur alleinigen Nutzung/Mietergarten ohne Entgelt oder zur Wohnung gehörender Garten mit direktem Zugang</label></p>
       </td>
     </tr>
