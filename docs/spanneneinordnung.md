@@ -234,7 +234,7 @@ permalink: /spanneneinordnung/
 
 <p>* Hinweise auf bestehende Lärmbelastung von Wohngebäuden werden durch die Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt bereitgestellt. Die Strategischen Lärmkarten mit einer gebäudescharfen Darstellung der Fassadenpegel an lärmbeeinflussten Wohngebäuden sind auf der <a href="https://www.berlin.de/sen/uvk/umwelt/laerm/laermminderungsplanung-berlin/laermkarten/" target="_blank">Internetseite dieser Senatsverwaltung</a> veröffentlicht.</p>
 
-<p><button type="submit" class="button">Ortsübliche Vergleichsmiete bestimmen</button></p>
+<p><a href="/ergebnis/" class="button button--white">Ortsübliche Vergleichsmiete bestimmen</a><span class="inline-arrow" aria-hidden="true">←</span><span class="tooltip-info"></span></p>
 
 </form>
 
