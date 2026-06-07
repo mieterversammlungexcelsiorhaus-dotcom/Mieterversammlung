@@ -1,6 +1,6 @@
 ---
 layout: rental-guide
-title: Mietpreisübersicht
+title: Berliner Mietspiegel Anleitung
 subtitle: Informationen zu Mietpreisen und Hausnummern
 permalink: /rental-guide/
 ---

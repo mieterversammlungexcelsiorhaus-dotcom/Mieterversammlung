@@ -7,10 +7,21 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
+    <style>
+      .chevron {
+        display: inline-block;
+        font-style: normal;
+        line-height: 1;
+        margin: 0 0.2em;
+      }
+      .chevron-left::before {
+        content: "\2039";
+      }
+      .chevron-right::before {
+        content: "\203A";
+      }
+    </style>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">

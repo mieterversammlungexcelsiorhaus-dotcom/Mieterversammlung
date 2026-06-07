@@ -89,6 +89,18 @@
         display: inline-block;
         animation: arrow-slide 0.9s ease-in-out infinite;
       }
+      .chevron {
+        display: inline-block;
+        font-style: normal;
+        line-height: 1;
+        margin: 0 0.2em;
+      }
+      .chevron-left::before {
+        content: "\2039";
+      }
+      .chevron-right::before {
+        content: "\203A";
+      }
       .section-title {
         font-size: 1.5rem;
         color: #003366;
@@ -149,6 +161,42 @@
       legend {
         font-weight: 700;
         margin-bottom: 0.5rem;
+      }
+      .tooltip-info {
+        position: relative;
+        display: inline-block;
+        cursor: help;
+        margin-left: 0.5rem;
+        font-size: 1.2rem;
+      }
+      .tooltip-info .tooltiptext {
+        visibility: hidden;
+        background-color: #333;
+        color: #fff;
+        text-align: left;
+        border-radius: 4px;
+        padding: 0.75rem;
+        position: absolute;
+        z-index: 1;
+        bottom: 130%;
+        left: -80px;
+        width: 200px;
+        font-size: 0.85rem;
+        font-weight: 400;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+      }
+      .tooltip-info .tooltiptext::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: #333 transparent transparent transparent;
+      }
+      .tooltip-info:hover .tooltiptext {
+        visibility: visible;
       }
       .info-box {
         display: none;

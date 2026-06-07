@@ -1,6 +1,6 @@
 ---
 layout: rental-guide
-title: Mietspiegelabfrage
+title: Berliner Mietspiegel Anleitung
 permalink: /mietspiegelabfrage/
 ---
 

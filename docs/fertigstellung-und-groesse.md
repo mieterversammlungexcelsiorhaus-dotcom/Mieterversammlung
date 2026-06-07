@@ -1,6 +1,6 @@
 ---
 layout: rental-guide
-title: Fertigstellung und Größe
+title: Berliner Mietspiegel Anleitung
 permalink: /fertigstellung-und-groesse/
 ---
 
