@@ -16,7 +16,7 @@ Bitte wählen Sie den Zeitraum der Fertigstellung des gewählten Hauses.
 		<label class="option-label"><input type="radio" name="fertigstellung" value="1919-1949">1919 - 1949</label>
 		<label class="option-label"><input type="radio" name="fertigstellung" value="1950-1964">1950 - 1964</label>
         <!-- 1968 fertiggestellt -->
-<label><span class="inline-arrow" aria-hidden="true">➜</span><span class="highlighted-text">1965 - 1972</span></label>
+<label><span class="inline-arrow" aria-hidden="true">➜</span><strong>1965 - 1972</strong></label>
 
 		<label class="option-label"><input type="radio" name="fertigstellung" value="1973-1985">1973 - 1985</label>
 		<label class="option-label"><input type="radio" name="fertigstellung" value="1986-1990">1986 - 1990</label>
